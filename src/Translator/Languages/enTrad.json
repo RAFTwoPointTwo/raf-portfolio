@@ -1,0 +1,10 @@
+{
+  "change_lang" : "FRA",
+  "welcome" : "Welcome !",
+  "links" : {
+    "me" : "About me",
+    "stack" : "My stack",
+    "projects" : "My projects",
+    "phone" : "Contact"
+  }
+}
